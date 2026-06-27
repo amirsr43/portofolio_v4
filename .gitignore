@@ -22,14 +22,3 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-
-# Environment variables (TAMBAHKAN INI!)
-.env
-.env.local
-.env.production
-.env.development
-.env.test
-
-# API keys and secrets
-*.key
-*.pem
